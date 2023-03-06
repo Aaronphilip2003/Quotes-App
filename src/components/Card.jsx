@@ -61,7 +61,7 @@ export default function Card() {
             {quote ? (
               <h1 className="font-bold italic">{quote}</h1>
             ) : null}
-            -----------------------------------------------
+            ---------------------------------------------
             {author ? (
               <h2 className="font-bold italic">{author}</h2>
             ) : null}
